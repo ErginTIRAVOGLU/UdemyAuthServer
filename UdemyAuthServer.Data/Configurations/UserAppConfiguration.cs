@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UdemyAuthServer.Core.Entities;
 
-namespace UdemyAuthServer.Data.Configuration
+namespace UdemyAuthServer.Data.Configurations
 {
     public class UserAppConfiguration : IEntityTypeConfiguration<UserApp>
     {
